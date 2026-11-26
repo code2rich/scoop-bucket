@@ -6,14 +6,14 @@
             "bin": [
                 "rgd.exe"
             ],
-            "hash": "cb8c6fb4fbd3d21a8038e1fbd727a3e8cea06e8a54caec2704b930ec55966a08"
+            "hash": "46ea1e03159459a73b1ed084bd6de3afa74e75c1609d21a4923ca74c5e789807"
         },
         "arm64": {
             "url": "https://github.com/code2rich/rigdepot/releases/download/v0.1.0/rgd_0.1.0_windows_arm64.zip",
             "bin": [
                 "rgd.exe"
             ],
-            "hash": "ee581cdfe68ee00f55d55d9ba730ee5ce3eb7a1fa3c97c3d1cd351dcff709e44"
+            "hash": "96bc4d319958499613afdacd0bf9adc21132b61bee96f9db8ce46855111e163e"
         }
     },
     "homepage": "https://github.com/code2rich/rigdepot",
